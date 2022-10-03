@@ -1,0 +1,31 @@
+# التمرين الاول
+
+ 
+ Make an array size 7 and print the 9th index 
+ - array index out of bonds error should appear
+ - handle it
+ 
+ # التمرين الثاني
+ 
+ Create a method that get a number as variable and check if this number is divided by 5 or not
+ 
+ - Throw exceptions if the number is not divided by 5
+ - Handle exception in main
+ - Use throw and throws
+
+
+# التمرين الثالث
+https://paper-attachments.dropbox.com/s_1C6A817F75C4FAB843A0D4EA354A32BCFF383C833C29989AECD8934EC4AF24B4_1650975844877_ExerciseOOP_AuthorTutorial.png
+
+# التمرين الرابع
+https://paper-attachments.dropbox.com/s_1C6A817F75C4FAB843A0D4EA354A32BCFF383C833C29989AECD8934EC4AF24B4_1650975964000_ExerciseOOP_Ball.png
+
+# التمرين الخامس
+https://user-images.githubusercontent.com/58336325/168803856-c58e6043-36ec-425e-8c0e-8cdd4f8cc639.png
+
+# التمرين السادس
+https://user-images.githubusercontent.com/58336325/168804018-8023969b-ecb8-4533-b973-917a5f26ef9c.png
+
+
+# التمرين السابع
+https://user-images.githubusercontent.com/58336325/168804206-8ca7b563-b553-4a9c-9500-9bdb441bdc34.png
